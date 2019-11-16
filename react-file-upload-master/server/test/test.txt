@@ -1,0 +1,23 @@
+Hi There,
+
+With over 7 years of experience in the software industry in both customer-facing and technical roles, I have a broad range of both technical and interpersonal skills to make a powerful impact. With my ability to troubleshoot and solve problems in a timely and accurate manner, my devotion to pursuing programming and growth, and my desire to contribute meaningfully, I am enthusiastically replying to the open software engineer position at  .
+
+I have worked on numerous production codebases and understand the importance of time management and open communication. While it may be easy to focus on the technical side of work, I’ve found that being able to express concerns, roadblocks, and alternative solutions to colleagues and mentors of varying technical backgrounds have been invaluable in my professional development.
+Over the course of my career as a software engineer I have:
+
+- Shipped 5 features as a freelancer through various platforms including Upwork as well as contributing to many more integrations, API services, UIs, as an independent developer, consultant, and contractor.
+- Cultivated years of experience writing JavaScript and invested heavily in the React ecosystem. Curiosity is one of my competitive advantages and this continues to fuel my growth. My current obsession is blockchain, cryptography and smart contracts.
+- Applied industry-grade practices around DevOps automation culture (CI/CD/Containerization),  E2E testing with Cucumber to drive BDD, Testing automation with Selenium, TDD with Jest/Enzyme, SSR for SEO with Next.js, in-memory caching, security protocols, compression, and more to faithfully adhere to best practices.
+- Invested heavily over the last year into self-teaching Python/Flask/Django, Typescript, and enough Ruby on Rails to be dangerous and currently learning Solidity for writing smart contracts. I consider myself an avid lifelong learner.
+- Deployed distributed systems on AWS, Netlify, BlueOcean, Heroku, leveraging best practices around CDN distribution, fault tolerance, and disaster recovery.
+
+
+I am continuously improving my skill set and am looking to join like-minded bright, humble and driven people to pursue something great together. Most recently, I graduated from Hack Reactor’s advanced software engineering program, where I invested 5 months, 6 days a week, at 11 hours/day building, testing, and optimizing production-scale JavaScript systems from inception to deployment. I got to really dig into enterprise-level aspects of orchestrating on AWS, as well as DevOps, Security, and Testing. I hope to bring my knowledge and future knowledge to .
+
+Attached is a copy of my resume that further explains my background and technical skills. I can be reached anytime via my cell phone, 617-646-9917, my portfolio can be found here https://mikefrenkel.com/. Thank you for your consideration. Hope to connect soon.
+
+All The Best,
+
+Michael (Misha)
+Cell: 617-646-9917
+https://mikefrenkel.com
